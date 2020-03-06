@@ -1,0 +1,5 @@
+pip install Flask==1.0.2
+pip  install flask-sqlalchemy
+pip  install flask-migrate
+pip  install flask-marshmallow
+pip  install marshmallow-sqlalchemy
